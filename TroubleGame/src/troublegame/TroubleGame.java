@@ -1,5 +1,5 @@
 /*
- * The main porgram of TroubleGame
+ * The main program of TroubleGame
  * Will include the game interactions
  * 
  */
